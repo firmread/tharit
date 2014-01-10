@@ -171,6 +171,7 @@
 	margin-right: -10000px;
 	margin-top: 87px;
 	left: 255px;
+	transition:300ms;
 }
 
 #u112:hover
