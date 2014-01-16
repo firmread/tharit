@@ -1,5 +1,5 @@
 /**
- * getSize v1.1.7
+ * getSize v1.1.6
  * measure size of elements
  */
 
@@ -12,10 +12,12 @@
 
 // -------------------------- helpers -------------------------- //
 
-var getComputedStyle = window.getComputedStyle;
-var getStyle = getComputedStyle ?
+var defView = document.defaultView;
+var isComputedStyle = defView && defView.getComputedStyle;
+
+var getStyle = isComputedStyle ?
   function( elem ) {
-    return getComputedStyle( elem, null );
+    return defView.getComputedStyle( elem, null );
   } :
   function( elem ) {
     return elem.currentStyle;
@@ -170,7 +172,7 @@ function getSize( elem ) {
 // taken from jQuery's curCSS
 function mungeNonPixel( elem, value ) {
   // IE8 and has percent value
-  if ( getComputedStyle || value.indexOf('%') === -1 ) {
+  if ( isComputedStyle || value.indexOf('%') === -1 ) {
     return value;
   }
   var style = elem.style;
