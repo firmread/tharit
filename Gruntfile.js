@@ -323,8 +323,8 @@ module.exports = function (grunt) {
     buildcontrol: {
       dist: {
         options: {
-          remote: '../',
-          branch: 'gh-pages',
+          remote: 'ssh://tothongc@tothong.com/~/git/tharitdev.git',
+          branch: 'dev',
           commit: true,
           push: true
         }
