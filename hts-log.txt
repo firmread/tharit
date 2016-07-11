@@ -1,0 +1,63 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 11 Jul 2016 07:54:14 at tharit.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" tharit.tothong.com -O1 "Y:\Downloads\My Web Sites\tharit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:57:50	Warning: 	Retry after error -4 (No data (connection closed)) at link tharit.tothong.com/fusevj (from tharit.tothong.com/)
+07:57:51	Warning: 	Retry after error -4 (No data (connection closed)) at link tharit.tothong.com/estee (from tharit.tothong.com/)
+08:07:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 1136306 got 1013019): tharit.tothong.com/assets/img/4chette/sketch.jpg
+08:11:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 3307317 got 2256939): tharit.tothong.com/assets/img/simxsim/2012-12-18 15.11.11.jpg
+08:14:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 3438482 got 2639459): tharit.tothong.com/assets/img/simxsim/2012-12-18 15.10.43.jpg
+08:19:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 3181006 got 2969419): tharit.tothong.com/assets/img/simxsim/2012-12-18 15.10.31.jpg
+08:22:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 1371775 got 1371260): tharit.tothong.com/assets/img/angulator/20120314-_DSC0006.jpg
+08:22:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 1203090 got 1096240): tharit.tothong.com/assets/img/typhoonflux/concept.png
+08:28:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 2325603 got 1735719): tharit.tothong.com/assets/img/hom/title.jpg
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/dist/css/Aaargh-webfont.eot (from tharit.tothong.com/dist/css/bootstrap.min.css)
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/dist/css/Aaargh-webfont.eot? (from tharit.tothong.com/dist/css/bootstrap.min.css)
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/dist/css/Aaargh-webfont.woff (from tharit.tothong.com/dist/css/bootstrap.min.css)
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/dist/css/Aaargh-webfont.ttf (from tharit.tothong.com/dist/css/bootstrap.min.css)
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/dist/css/Aaargh-webfont.svg (from tharit.tothong.com/dist/css/bootstrap.min.css)
+08:29:56	Error: 	"Not Found" (404) at link tharit.tothong.com/thatthey/resume.pdf (from tharit.tothong.com/thatthey/)
+08:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link tharit.tothong.com/assets/img/thatthey/rgbbanner.jpg (from tharit.tothong.com/thatthey/)
+08:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link tharit.tothong.com/assets/img/thatthey/breezi_placeit_tt.png (from tharit.tothong.com/thatthey/)
+08:30:11	Warning: 	Retry after error -4 (Incorrect length (1720943 Bytes, 3432174 expected)) at link tharit.tothong.com/assets/img/thatthey/2013-05-14 19.20.21.jpg (from tharit.tothong.com/thatthey/)
+08:30:14	Warning: 	Moved Permanently for tharit.tothong.com/fusevj
+08:30:14	Warning: 	File has moved from tharit.tothong.com/fusevj to http://tharit.tothong.com/fusevj/
+08:30:15	Warning: 	Moved Permanently for tharit.tothong.com/estee
+08:30:15	Warning: 	File has moved from tharit.tothong.com/estee to http://tharit.tothong.com/estee/
+08:30:16	Error: 	"Not Found" (404) at link tharit.tothong.com/pcomp/resume.pdf (from tharit.tothong.com/pcomp/)
+08:30:16	Error: 	"Not Found" (404) at link tharit.tothong.com/igivemore/resume.pdf (from tharit.tothong.com/igivemore/)
+08:30:16	Error: 	"Not Found" (404) at link tharit.tothong.com/giflip/resume.pdf (from tharit.tothong.com/giflip/)
+08:30:16	Error: 	"Not Found" (404) at link tharit.tothong.com/4chette/resume.pdf (from tharit.tothong.com/4chette/)
+08:30:16	Warning: 	Retry after error -4 (Incorrect length (1013019 Bytes, 1136306 expected)) at link tharit.tothong.com/assets/img/4chette/sketch.jpg (from tharit.tothong.com/4chette/)
+08:30:36	Error: 	"Not Found" (404) at link tharit.tothong.com/simxsim/resume.pdf (from tharit.tothong.com/simxsim/)
+08:30:36	Warning: 	Retry after error -4 (Incorrect length (2256939 Bytes, 3307317 expected)) at link tharit.tothong.com/assets/img/simxsim/2012-12-18 15.11.11.jpg (from tharit.tothong.com/simxsim/)
+08:32:14	Warning: 	Retry after error -4 (Incorrect length (2639459 Bytes, 3438482 expected)) at link tharit.tothong.com/assets/img/simxsim/2012-12-18 15.10.43.jpg (from tharit.tothong.com/simxsim/)
+08:33:27	Warning: 	Retry after error -4 (Incorrect length (2969419 Bytes, 3181006 expected)) at link tharit.tothong.com/assets/img/simxsim/2012-12-18 15.10.31.jpg (from tharit.tothong.com/simxsim/)
+08:34:02	Error: 	"Not Found" (404) at link tharit.tothong.com/avsys/resume.pdf (from tharit.tothong.com/avsys/)
+08:34:02	Error: 	"Not Found" (404) at link tharit.tothong.com/angulator/resume.pdf (from tharit.tothong.com/angulator/)
+08:34:02	Warning: 	Retry after error -4 (Incorrect length (1371260 Bytes, 1371775 expected)) at link tharit.tothong.com/assets/img/angulator/20120314-_DSC0006.jpg (from tharit.tothong.com/angulator/)
+08:34:03	Error: 	"Not Found" (404) at link tharit.tothong.com/algo/resume.pdf (from tharit.tothong.com/algo/)
+08:34:03	Error: 	"Not Found" (404) at link tharit.tothong.com/typhoonflux/resume.pdf (from tharit.tothong.com/typhoonflux/)
+08:34:03	Warning: 	Retry after error -4 (Incorrect length (1096240 Bytes, 1203090 expected)) at link tharit.tothong.com/assets/img/typhoonflux/concept.png (from tharit.tothong.com/typhoonflux/)
+08:34:21	Error: 	"Not Found" (404) at link tharit.tothong.com/sdub/resume.pdf (from tharit.tothong.com/sdub/)
+08:34:21	Error: 	"Not Found" (404) at link tharit.tothong.com/soi/resume.pdf (from tharit.tothong.com/soi/)
+08:34:21	Error: 	"Not Found" (404) at link tharit.tothong.com/hom/resume.pdf (from tharit.tothong.com/hom/)
+08:34:21	Warning: 	Retry after error -4 (Incorrect length (1735719 Bytes, 2325603 expected)) at link tharit.tothong.com/assets/img/hom/title.jpg (from tharit.tothong.com/hom/)
+08:34:23	Error: 	"Not Found" (404) at link tharit.tothong.com/khwanpattana/resume.pdf (from tharit.tothong.com/khwanpattana/)
+08:34:23	Error: 	"Not Found" (404) at link tharit.tothong.com/track.js (from secure.gaug.es/track.js)
+08:34:23	Error: 	"Not Found" (404) at link tharit.tothong.com/track.gif (from secure.gaug.es/track.js)
+08:38:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 1536721 got 1131280): tharit.tothong.com/assets/img/fuse/Screen Shot 2013-05-16 at 2.49.04 PM.png
+08:41:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 1338117 got 1234940): tharit.tothong.com/assets/img/fuse/Screen Shot 2013-05-11 at 3.44.56 PM.png
+08:42:42	Error: 	"Not Found" (404) at link tharit.tothong.com/fusevj/resume.pdf (from tharit.tothong.com/fusevj/)
+08:42:42	Warning: 	Retry after error -4 (Incorrect length (1131280 Bytes, 1536721 expected)) at link tharit.tothong.com/assets/img/fuse/Screen Shot 2013-05-16 at 2.49.04 PM.png (from tharit.tothong.com/fusevj/)
+08:42:57	Warning: 	Retry after error -4 (Incorrect length (1234940 Bytes, 1338117 expected)) at link tharit.tothong.com/assets/img/fuse/Screen Shot 2013-05-11 at 3.44.56 PM.png (from tharit.tothong.com/fusevj/)
+08:43:15	Error: 	"Not Found" (404) at link tharit.tothong.com/estee/resume.pdf (from tharit.tothong.com/estee/)
+08:43:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 2723908 got 1464159): tharit.tothong.com/assets/img/estee/2013-06-11 19.36.00.jpg
+08:43:33	Warning: 	Retry after error -4 (Incorrect length (1464159 Bytes, 2723908 expected)) at link tharit.tothong.com/assets/img/estee/2013-06-11 19.36.00.jpg (from tharit.tothong.com/estee/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 50 minutes 58 seconds : 197 links scanned, 156 files written (75943564 bytes overall) [75637694 bytes received at 24734 bytes/sec], 639949 bytes transferred using HTTP compression in 51 files, ratio 42%, 1.6 requests per connection
+(23 errors, 29 warnings, 0 messages)
